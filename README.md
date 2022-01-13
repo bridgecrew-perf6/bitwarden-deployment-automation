@@ -42,8 +42,8 @@ vi .aws/creds
 
 ##### copy pasted the file for the same
 [default]
-aws_access_key_id=<enter your aws key id here>
-aws_secret_access_key=<enter your aws secret key id here>
+aws_access_key_id=\<enter your aws key id here>
+aws_secret_access_key=\<enter your aws secret key id here>
 
 ##### make sure you have main.tf file in the current directory
 terraform init
